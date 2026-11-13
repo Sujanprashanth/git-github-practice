@@ -1,0 +1,7 @@
+Git & GitHub practice notes
+
+1. First inspect the files with git status.
+2. Practise staging and committing.
+3. Create a feature branch and edit a file.
+4. Practise diff, restore, stash, merge and log.
+5. Do not connect this practice repository to your real GitHub repo.
