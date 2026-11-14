@@ -3,6 +3,7 @@ public class Student {
     private String name;
     private String course;
     private String email;
+    private String phone;
     public Student(int id, String name, String course) {
         this.id = id;
         this.name = name;
